@@ -20,5 +20,5 @@ Despite the best efforts of the developers, the following limitations and functi
 -There is no provision to delete old records automatically
 -Updating of movies is not implemented in the project, and it requires the managers to manually update the data from the backend.
 
-##Conclusion
+## Conclusion
 The movie ticket booking system is designed to make the ticket booking process easier and convenient for the users. The system aims to provide a safe environment for moviegoers by implementing COVID-19 safety measures. Although certain limitations and functional boundaries are evident, the software provides a robust platform for ticket booking and record maintenance.
